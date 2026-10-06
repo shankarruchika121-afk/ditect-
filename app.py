@@ -14,7 +14,7 @@ import streamlit as st
 # Page config + styling
 # ----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="GlucoGuard | Diabetes Risk Predictor",
+    page_title="Diabetes Sathi | Diabetes Risk Predictor",
     page_icon="🩺",
     layout="wide",
     initial_sidebar_state="expanded",
